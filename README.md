@@ -2,7 +2,7 @@
 
 My name is Sophia. I am studying **Mathematics and Computer Science** at Far Eastern Federal University.
 
-- Reviewing all of my old knowledge from previous years, will be publishing my new pet projects here soon:)
+- Reviewing all of my old knowledge from previous years, publish my new pet projects here
 - Focused on deep learning for computer vision and data science
 
 <h3 align="left">Languages & tools</h3>
